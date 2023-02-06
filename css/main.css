@@ -1,0 +1,27 @@
+/** @format */
+
+.card-title {
+   background-color: red;
+   padding: 20px;
+}
+
+.card-text {
+   font-size: 18px;
+   margin-top: 20px;
+}
+
+.card-pg {
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+.btn-1 {
+   border-radius: 20px;
+   padding: 20px 200px;
+   background-color: rgb(60, 60, 200);
+   text-decoration: none;
+   color: black;
+}
+.card-img-top {
+   margin-top: 50px;
+}
